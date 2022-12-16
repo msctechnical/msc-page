@@ -25,8 +25,8 @@ function App() {
               <Contactus />,
             ]}
           ></Route>
-          <Route path="/about" element={<About/>}></Route>
-          <Route path="/tutorials" element={<Tutorials />}></Route>
+          <Route path="msc-page/about" element={<About/>}></Route>
+          <Route path="msc-page/tutorials" element={<Tutorials />}></Route>
         </Routes>
         <Footer />
       </Router>
