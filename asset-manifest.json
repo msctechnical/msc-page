@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/msc-page/static/css/main.43797d7a.css",
+    "main.js": "/msc-page/static/js/main.8904a4f7.js",
+    "static/js/787.e721a538.chunk.js": "/msc-page/static/js/787.e721a538.chunk.js",
+    "index.html": "/msc-page/index.html",
+    "main.43797d7a.css.map": "/msc-page/static/css/main.43797d7a.css.map",
+    "main.8904a4f7.js.map": "/msc-page/static/js/main.8904a4f7.js.map",
+    "787.e721a538.chunk.js.map": "/msc-page/static/js/787.e721a538.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43797d7a.css",
+    "static/js/main.8904a4f7.js"
+  ]
+}
